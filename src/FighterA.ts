@@ -13,9 +13,9 @@ class FighterA implements DigiPet{
     
     /*
     DO THIS: make armor for your fighter.  They are strong against what they have most of 3 caterogies:
-        -fruit
-        -meat
-        -grain
+        -fruit(strong against fruit, weak against grain)
+        -meat(strong against meat, weak against fruit)
+        -grain(strong against grain, weak against meat)
     */
 
     //DO THIS:  declare an array called foods that is made of OffensiveFood weapons
